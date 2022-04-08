@@ -1,0 +1,13 @@
+-- Rate Limit --
+<rate-limit-by-key calls="3" renewal-period="15" counter-key="@(context.Subscription.Id)" />
+
+
+-- Caching Inbound --
+<cache-lookup vary-by-developer="false" vary-by-developer-groups="false">
+    <vary-by-header>Accept</vary-by-header>
+    <vary-by-header>Accept-Charset</vary-by-header>
+    <vary-by-header>Authorization</vary-by-header>
+</cache-lookup>
+
+-- Caching Outbound --
+<cache-store duration="20" />
