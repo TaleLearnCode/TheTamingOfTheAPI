@@ -1,0 +1,29 @@
+[
+    {
+        "Number": "30100",
+        "Name": "Moon Over Nowhere",
+        "StartingAtPrice": 2995,
+        "IsFeatured": false,
+        "CareTypes": [
+            {
+                "Code": "IL",
+                "Name": "Independent Living"
+            },
+            {
+                "Code": "IL",
+                "Name": "Memory Care"
+            }
+        ],
+        "PhoneNumber": "(520) 299-1941",
+        "Address": {
+            "StreetAddress": "1550 E River Rd",
+            "City": "Tuscon",
+            "CountryDivisionType": "state",
+            "CountryDivisionName": "Arizona",
+            "CountryDivisionCode": "AZ ",
+            "CountryName": "United States of America",
+            "CountryCode": "US",
+            "PostalCode": "85718-5800"
+        }
+    }
+]
