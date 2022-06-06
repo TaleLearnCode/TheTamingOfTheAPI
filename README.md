@@ -34,4 +34,4 @@ In this presentation, we will look at API gateways in general and how to use the
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
 | [CodeStock](https://www.codestock.org/) | Knoxville, TN | April 7, 2022 | 1:55 pm EDT | Ballroom B | [Slides](Presentations/The%20Taming%20of%20the%20API%20-%20CodeStock.pdf) |
-| [dev up 2022](https://www.devupconf.org/speakers/chad-green) | St. Charles, MO | June 6 - 8, 2022 | TBA | TBA | Available Afterwards | 
+| [dev up 2022](https://www.devupconf.org/speakers/chad-green) | St. Charles, MO | June 8, 2022 | 4:00 pm CDT | Imagination C & D | [Slides](Presentations/The%20Taming%20of%20the%20API%20-%20DevUp.pdf) | 
