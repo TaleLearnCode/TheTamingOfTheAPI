@@ -39,4 +39,3 @@ We will look at API gateways in general and how to use them to make your APIs us
 | [Nebraska.Code()](https://nebraskacode.amegala.com/Sessions/1357) | Lincoln, NE | July 15, 2022 | July 15 | 2:30 pm CDT | [Slides](Presentations/TheTamingOfTheAPI_NebraskaCode.pdf) | 
 | [dev up 2022](https://www.devupconf.org/speakers/chad-green) | St. Charles, MO | June 8, 2022 | 4:00 pm CDT | Imagination C & D | [Slides](Presentations/The%20Taming%20of%20the%20API%20-%20DevUp.pdf) | 
 | [CodeStock](https://www.codestock.org/) | Knoxville, TN | April 7, 2022 | 1:55 pm EDT | Ballroom B | [Slides](Presentations/The%20Taming%20of%20the%20API%20-%20CodeStock.pdf) |
-| [dev up 2022](https://www.devupconf.org/speakers/chad-green) | St. Charles, MO | June 8, 2022 | 4:00 pm CDT | Imagination C & D | [Slides](Presentations/The%20Taming%20of%20the%20API%20-%20DevUp.pdf) | 
